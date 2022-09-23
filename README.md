@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aherna100
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Fullstack Engineering
+- 👀 I’m interested in **Software Development**
+- 🌱 I’m currently learning **Fullstack Engineering**
 - 💞️ I’m looking to collaborate on any kind of projects
 - 📫 How to reach me aherna100@icloud.com
 
